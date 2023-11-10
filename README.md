@@ -1,0 +1,2 @@
+# django-simpleApp
+Test Django
